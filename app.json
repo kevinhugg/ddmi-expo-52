@@ -3,6 +3,10 @@
     "name": "firebase-chat",
     "slug": "firebase-chat",
     "version": "1.0.0",
+    "sdkVersion": "52.0.0",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
